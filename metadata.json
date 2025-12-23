@@ -1,0 +1,7 @@
+{
+  "name": "Neon Pink Cyber-Christmas",
+  "description": "A high-performance, interactive 3D Christmas experience featuring instanced geometry, post-processing bloom, and dynamic particle animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
